@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+(https://github-readme-streak-stats.herokuapp.com/?user=emeeloguz&&theme=tokyonight)
+
 <!--
 **emeeloguz/emeeloguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
